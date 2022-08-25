@@ -1,4 +1,4 @@
-package ru.geekbrains.qa.java2.lesson3.homeWork;
+package src;
 
 public class Fruit {
     private int amount;
